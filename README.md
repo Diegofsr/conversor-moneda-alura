@@ -4,7 +4,8 @@
 ¡Bienvenido! Este proyecto es un conversor de monedas desarrollado en Java, parte del reto de Alura / Oracle Next Education.
 Permite convertir valores entre diferentes divisas de manera sencilla y rápida usando la lógica implementada en Java.
 
-🗂️ Estructura del proyecto
+## 🗂️ Estructura del proyecto
+```text
 src/main/java/
 ├── ClienteAPI.java       # Maneja solicitudes a la API de tipos de cambio
 ├── ExchangeRates.java    # Almacena las tasas de conversión
@@ -12,7 +13,7 @@ src/main/java/
 └── Main.java             # Clase principal que ejecuta la aplicación
 pom.xml                   # Configuración de Maven
 .gitignore                # Archivos y carpetas a ignorar
-
+```
 🛠️ Tecnologías utilizadas
 
 Java ☕
